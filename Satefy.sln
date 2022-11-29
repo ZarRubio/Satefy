@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Satefy.API", "Satefy.API\Satefy.API.csproj", "{F40EC146-2CEB-4C2F-8BE3-15AB535860A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Safety.Domain", "Safety.Domain\Safety.Domain.csproj", "{20F3A045-80C3-4432-B636-E90C81A592DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Safety.Infraestructure", "Safety.Infraestructure\Safety.Infraestructure.csproj", "{8F3DF2D7-5401-4551-B6C8-FC611C3C7D54}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F40EC146-2CEB-4C2F-8BE3-15AB535860A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F40EC146-2CEB-4C2F-8BE3-15AB535860A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F40EC146-2CEB-4C2F-8BE3-15AB535860A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F40EC146-2CEB-4C2F-8BE3-15AB535860A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20F3A045-80C3-4432-B636-E90C81A592DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20F3A045-80C3-4432-B636-E90C81A592DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20F3A045-80C3-4432-B636-E90C81A592DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20F3A045-80C3-4432-B636-E90C81A592DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F3DF2D7-5401-4551-B6C8-FC611C3C7D54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F3DF2D7-5401-4551-B6C8-FC611C3C7D54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F3DF2D7-5401-4551-B6C8-FC611C3C7D54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F3DF2D7-5401-4551-B6C8-FC611C3C7D54}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
